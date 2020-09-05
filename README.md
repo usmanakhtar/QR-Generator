@@ -7,4 +7,4 @@ This android Application can read any given qr code and Generate the qr code bas
 
 ## Images 
 ![QR Generator](https://github.com/bikashthapa01/QR-APP/blob/master/images/qr-generator.png?raw=true)
-![QR Scanner](https://github.com/bikashthapa01/QR-APP/blob/master/images/qr-scanner.png?raw=true)
+
